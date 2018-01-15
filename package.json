@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MrWiseOne/todolist/issues"
   },
-  "homepage": "https://github.com/MrWiseOne/todolist#readme"
+  "homepage": "https://github.com/MrWiseOne/todolist#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
